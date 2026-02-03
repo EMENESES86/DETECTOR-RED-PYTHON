@@ -126,6 +126,3 @@ python monitor_isp_telegram.py
 ## 📝 Licencia
 
 Desarrollado para uso académico y profesional. Libre de modificación para fines de mejora operativa.
-
-```
-
